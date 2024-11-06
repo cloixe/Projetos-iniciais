@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+}
+
+h1 {
+
+    text-align: center;
+}
+p {
+
+    text-align: center;
+}
+button{
+
+    text-align: center;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    background-image: -webkit-image-set("https://static.vecteezy.com/ti/vetor-gratis/p1/23036288-natureza-primavera-panorama-com-verde-campo-com-nuvem-azul-ceu-horizonte-natural-rural-campo-de-a-lago-com-floresta-arvore-montanhas-dentro-ensolarado-dia-desenho-animado-para-primavera-verao-bandeira-vetor.jpg");
+background-size: cover;
+background-position: center;
+
+}
+
+section {
+    text-align: center;
+}
+
+h1, p, button {
+    text-align: center;
+}
